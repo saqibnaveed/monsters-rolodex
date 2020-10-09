@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://saqibnaveed.github.io/monsters-rolodex/static/css/main.32fbb8fa.chunk.css",
+    "main.js": "/://saqibnaveed.github.io/monsters-rolodex/static/js/main.c8a5d14d.chunk.js",
+    "main.js.map": "/://saqibnaveed.github.io/monsters-rolodex/static/js/main.c8a5d14d.chunk.js.map",
+    "runtime-main.js": "/://saqibnaveed.github.io/monsters-rolodex/static/js/runtime-main.34d73abe.js",
+    "runtime-main.js.map": "/://saqibnaveed.github.io/monsters-rolodex/static/js/runtime-main.34d73abe.js.map",
+    "static/js/2.7aaef059.chunk.js": "/://saqibnaveed.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/://saqibnaveed.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/://saqibnaveed.github.io/monsters-rolodex/index.html",
+    "precache-manifest.8f4e962c739801b1b836604eb9ad2dce.js": "/://saqibnaveed.github.io/monsters-rolodex/precache-manifest.8f4e962c739801b1b836604eb9ad2dce.js",
+    "service-worker.js": "/://saqibnaveed.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.32fbb8fa.chunk.css.map": "/://saqibnaveed.github.io/monsters-rolodex/static/css/main.32fbb8fa.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/://saqibnaveed.github.io/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34d73abe.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.32fbb8fa.chunk.css",
+    "static/js/main.c8a5d14d.chunk.js"
+  ]
+}
